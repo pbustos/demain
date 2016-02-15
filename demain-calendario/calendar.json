@@ -1,0 +1,155 @@
+{
+    "explotacion":{
+        "nombre": "La Rinconada",
+        "propietario": "Pia"
+	},
+    "persistencia":{
+	"database":"mongodb",
+	"node":"http://localhost:2020",
+	"access key":"always yours"
+	},
+    "weeks" : {
+        "1": [ 
+                {"type" : "action", "name" : "otras intervenciones"}
+             ],
+        "2": [ 
+                {"type" : "action", "name" : "otras intervenciones"}
+             ],
+        "3": [ 
+                {"type" : "action", "name" : "flusching-efecto macho"},
+                {"type" : "action", "name" : "vacuna clamidia"},
+                {"type" : "action", "name" : "desparasitación con closantel"},
+                {"type" : "part",   "name" : "CERCA-1"}
+            ],
+        "4": [ 
+                {"type" : "action", "name" : "flusching-efecto macho"},
+                {"type" : "action", "name" : "vacuna clamidia"},
+                {"type" : "action", "name" : "desparasitación con closantel"},
+                {"type" : "part",   "name" : "CERCA-1"}
+            ],
+        "5": [
+                {"type" : "action", "name": "Cubrición"},
+                {"type" : "part"  , "name": "CERCA-1" }
+            ],
+        "6": [
+                {"type" : "action", "name": "Cubrición"},
+                {"type" : "part"  , "name": "CERCA-1" }
+            ],
+        "7": [
+                {"type" : "action", "name": "Cubrición"},
+                {"type" : "part"  , "name": "CERCA-1" }
+            ],
+        "8": [
+                {"type" : "action", "name": "Cubrición"},
+                {"type" : "part"  , "name": "CERCA-1" }
+            ],
+        "9": [
+                {"type" : "action", "name": "Cubrición"},
+                {"type" : "part"  , "name": "CERCA-1" }
+            ],
+        "10": [
+                {"type" : "action", "name": "Cubrición"},
+                {"type" : "part"  , "name": "CERCA-1" }
+            ],
+        "11": [
+                {"type" : "action", "name": "Ecógrafo"},
+                {"type" : "action", "name": "Mantener preñadas en esta cerca"},
+                {"type" : "part"  , "name": "CERCA-2" },
+                {"type" : "action", "name": "Pasar no preñadas a CERCA-1" }
+            ],
+        "12": [
+                {"type" : "action", "name": "Ecógrafo"},
+                {"type" : "action", "name": "Mantener preñadas en esta cerca"},
+                {"type" : "part"  , "name": "CERCA-2" },
+                {"type" : "action", "name": "Pasar no preñadas a CERCA-1" }
+            ],
+		"13": [
+                {"type" : "action", "name": "Ecógrafo"},
+                {"type" : "action", "name": "Mantener preñadas en esta cerca"},
+                {"type" : "part"  , "name": "CERCA-2" },
+                {"type" : "action", "name": "Pasar no preñadas a CERCA-1" }
+            ],
+        "14": [
+                {"type" : "action", "name": "Ecógrafo"},
+                {"type" : "action", "name": "Mantener preñadas en esta cerca"},
+                {"type" : "part"  , "name": "CERCA-2" },
+                {"type" : "action", "name": "Pasar no preñadas a CERCA-1" }
+            ],
+		"15": [
+                {"type" : "action", "name": "Ecógrafo"},
+                {"type" : "action", "name": "Mantener preñadas en esta cerca"},
+                {"type" : "part"  , "name": "CERCA-2" }
+            ],
+        "16": [
+                {"type" : "action", "name": "Ecógrafo"},
+                {"type" : "action", "name": "Mantener preñadas en esta cerca"},
+                {"type" : "part"  , "name": "CERCA-2" }
+            ],
+		"17": [
+                {"type" : "action", "name": "Ecógrafo"},
+                {"type" : "action", "name": "Mantener preñadas en esta cerca"},
+                {"type" : "part"  , "name": "CERCA-3" }
+            ],
+        "18": [
+                {"type" : "action", "name": "Ecógrafo"},
+                {"type" : "action", "name": "Mantener preñadas en esta cerca"},
+                {"type" : "part"  , "name": "CERCA-3" }
+            ],
+		"19": [
+                {"type" : "action", "name": "Ecógrafo"},
+                {"type" : "action", "name": "Mantener preñadas en esta cerca"},
+                {"type" : "part"  , "name": "CERCA-3" }
+            ],
+        "20": [
+                {"type" : "action", "name": "Ecógrafo"},
+                {"type" : "action", "name": "Mantener preñadas en esta cerca"},
+                {"type" : "part"  , "name": "CERCA-3" }
+            ],
+   		"21": [
+                {"type" : "action", "name": "Alimentación suplementaria"},
+                {"type" : "part"  , "name": "CERCA-4" }
+            ],
+     	"22": [
+                {"type" : "action", "name": "Alimentación suplementaria"},
+                {"type" : "part"  , "name": "CERCA-4" }
+            ],
+     	"23": [
+                {"type" : "action", "name": "Alimentación suplementaria"},
+                {"type" : "part"  , "name": "CERCA-4" }
+            ],
+     	"24": [
+                {"type" : "action", "name": "Alimentación suplementaria"},
+                {"type" : "part"  , "name": "CERCA-4" }
+            ],
+		"25": [
+                {"type" : "action", "name": "Paridera y lactancia"},
+                {"type" : "part"  , "name": "CERCA-5" },
+                {"type" : "part"  , "name": "CERCA-6" }
+            ],
+ 		"26": [
+                {"type" : "action", "name": "Paridera y lactancia"},
+                {"type" : "part"  , "name": "CERCA-5" },
+                {"type" : "part"  , "name": "CERCA-6" }
+            ],
+        "27": [
+                {"type" : "action", "name": "Paridera y lactancia"},
+                {"type" : "part"  , "name": "CERCA-5" },
+                {"type" : "part"  , "name": "CERCA-6" }
+            ],
+ 		"28": [
+                {"type" : "action", "name": "Paridera y lactancia"},
+                {"type" : "part"  , "name": "CERCA-5" },
+                {"type" : "part"  , "name": "CERCA-6" }
+            ],
+		"29": [
+                {"type" : "action", "name": "Paridera y lactancia"},
+                {"type" : "part"  , "name": "CERCA-5" },
+                {"type" : "part"  , "name": "CERCA-6" }
+            ],
+ 		"30": [
+                {"type" : "action", "name": "Paridera y lactancia"},
+                {"type" : "part"  , "name": "CERCA-5" },
+                {"type" : "part"  , "name": "CERCA-6" }
+            ]
+    }
+}

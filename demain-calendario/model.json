@@ -1,0 +1,779 @@
+{
+    "cercas": {
+       "corral": {
+            "contenido-suelo": [],
+            "draw-color": "magenta",
+            "id": "corral",
+            "labores": [],
+            "nivel-pasto": [
+                {
+                    "accion": "oveja1",
+                    "fecha": "2015-01-07 20:21:02",
+                    "max-kgs-por-ha": "100",
+                    "kgs-por-ha": "70"
+                }
+            ],
+            "polilinea": [
+                {
+                    "pos-latitud": "174",
+                    "pos-longitud": "280"
+                },
+               {
+                    "pos-latitud": "205",
+                    "pos-longitud": "281"
+                },
+               {
+                    "pos-latitud": "205",
+                    "pos-longitud": "310"
+                }
+            ],
+            "rendimiento-suelo": [
+                {
+                    "fecha": "",
+                    "rendimiento": "50"
+                }
+            ],
+            "superficie": "45",
+            "tiene-ovejas": "false"
+        },
+        "cerca1": {
+            "contenido-suelo": [], 
+            "draw-color": "magenta", 
+            "id": "cerca1", 
+            "labores": [], 
+            "nivel-pasto": [
+                {
+                    "accion": "oveja1",
+                    "fecha": "2015-01-07 20:21:02",
+                    "kgs-por-ha": "70",
+                    "max-kgs-por-ha": "100"
+                }
+            ], 
+            "polilinea": [
+                {
+                    "pos-latitud": "194",
+                    "pos-longitud": "266"
+                },
+               {
+                    "pos-latitud": "159",
+                    "pos-longitud": "261"
+                },
+                {
+                    "pos-latitud": "169",
+                    "pos-longitud": "151"
+                }, 
+                {
+                    "pos-latitud": "264", 
+                    "pos-longitud": "88"
+                }
+            ], 
+            "rendimiento-suelo": [
+                {
+                    "fecha": "", 
+                    "rendimiento": "50"
+                }
+            ], 
+            "superficie": "45",
+            "tiene-ovejas": "false"
+        }, 
+        "cerca2": {
+            "contenido-suelo": [], 
+            "draw-color": "verde", 
+            "id": "cerca2", 
+            "labores": [], 
+            "nivel-pasto": [
+                {
+                    "accion": "oveja1", 
+                    "fecha": "2015-01-07 20:21:02", 
+                    "kgs-por-ha": "70",
+                    "max-kgs-por-ha": "100"
+                }
+            ], 
+            "polilinea": [
+                {
+                    "pos-latitud": "197", 
+                    "pos-longitud": "266"
+                }, 
+                {
+                    "pos-latitud": "268", 
+                    "pos-longitud": "88"
+                }, 
+                {
+                    "pos-latitud": "331", 
+                    "pos-longitud": "137"
+                }, 
+                {
+                    "pos-latitud": "208", 
+                    "pos-longitud": "264"
+                }
+            ], 
+            "rendimiento-suelo": [
+                {
+                    "fecha": "", 
+                    "rendimiento": "50"
+                }
+            ], 
+            "superficie": "40",
+            "tiene-ovejas": "false"
+        }, 
+        "cerca3": {
+            "contenido-suelo": [], 
+            "draw-color": "rojo", 
+            "id": "cerca3", 
+            "labores": [], 
+            "nivel-pasto": [
+                {
+                    "accion": "oveja1", 
+                    "fecha": "2015-01-07 20:21:02", 
+                    "kgs-por-ha": "70",
+                    "max-kgs-por-ha": "70"
+                }
+            ], 
+            "polilinea": [
+                {
+                    "pos-latitud": "211", 
+                    "pos-longitud": "269"
+                }, 
+                {
+                    "pos-latitud": "336", 
+                    "pos-longitud": "142"
+                }, 
+                {
+                    "pos-latitud": "404", 
+                    "pos-longitud": "201"
+                }
+            ], 
+            "rendimiento-suelo": [
+                {
+                    "fecha": "", 
+                    "rendimiento": "50"
+                }
+            ], 
+            "superficie": "45",
+            "tiene-ovejas": "false"
+        }, 
+        "cerca4": {
+            "contenido-suelo": [], 
+            "draw-color": "magenta", 
+            "id": "cerca4", 
+            "labores": [], 
+            "nivel-pasto": [
+                {
+                    "accion": "oveja1", 
+                    "fecha": "2015-01-07 20:21:02", 
+                    "kgs-por-ha": "70",
+                    "max-kgs-por-ha": "100"
+                }
+            ], 
+            "polilinea": [
+                {
+                    "pos-latitud": "218", 
+                    "pos-longitud": "273"
+                }, 
+                {
+                    "pos-latitud": "327", 
+                    "pos-longitud": "237"
+                }, 
+                {
+                    "pos-latitud": "410",
+                    "pos-longitud": "380"
+                },
+                {
+                    "pos-latitud": "293",
+                    "pos-longitud": "305"
+
+                },
+                {
+                    "pos-latitud": "233",
+                    "pos-longitud": "305"
+
+                }
+            ], 
+            "rendimiento-suelo": [
+                {
+                    "fecha": "", 
+                    "rendimiento": "1"
+                }
+            ], 
+            "superficie": "65",
+            "tiene-ovejas": "false"
+        }, 
+        "cerca5": {
+            "contenido-suelo": [], 
+            "draw-color": "verde", 
+            "id": "cerca5", 
+            "labores": [], 
+            "nivel-pasto": [
+                {
+                    "accion": "oveja1", 
+                    "fecha": "2015-01-07 20:21:02", 
+                    "max-kgs-por-ha": "100",
+                    "kgs-por-ha": "70"
+                }
+            ], 
+            "polilinea": [
+                {
+                    "pos-latitud": "333", 
+                    "pos-longitud": "235"
+                }, 
+                {
+                    "pos-latitud": "403", 
+                    "pos-longitud": "211"
+                }, 
+                {
+                    "pos-latitud": "463", 
+                    "pos-longitud": "340"
+                }, 
+                {
+                    "pos-latitud": "419",
+                    "pos-longitud": "380"
+                }
+
+            ], 
+            "rendimiento-suelo": [
+                {
+                    "fecha": "", 
+                    "rendimiento": "50"
+                }
+            ], 
+            "superficie": "55",
+            "tiene-ovejas": "true"
+        }
+    }, 
+    "charcas": {
+        "charca1": {
+            "calidad-agua": [], 
+            "id": "charca1", 
+            "nivel-llenado": "30%", 
+            "polilinea": [
+                {
+                    "pos-latitud": "307", 
+                    "pos-longitud": "270"
+                }, 
+                {
+                    "pos-latitud": "302", 
+                    "pos-longitud": "314"
+                }, 
+                {
+                    "pos-latitud": "330", 
+                    "pos-longitud": "325"
+                }, 
+                {
+                    "pos-latitud": "360", 
+                    "pos-longitud": "350"
+                }, 
+                {
+                    "pos-latitud": "372", 
+                    "pos-longitud": "293"
+                }, 
+                {
+                    "pos-latitud": "307", 
+                    "pos-longitud": "270"
+                }
+            ], 
+            "superficie": "50",
+            "tipo": "excavada", 
+            "volumen": "20"
+        }, 
+        "charca2": {
+            "calidad-agua": [], 
+            "id": "charca2", 
+            "nivel-llenado": "30%", 
+            "polilinea": [
+                {
+                    "pos-latitud": "209", 
+                    "pos-longitud": "171"
+                }, 
+                {
+                    "pos-latitud": "220", 
+                    "pos-longitud": "163"
+                }, 
+                {
+                    "pos-latitud": "323", 
+                    "pos-longitud": "183"
+                }, 
+                {
+                    "pos-latitud": "305", 
+                    "pos-longitud": "212"
+                }, 
+                {
+                    "pos-latitud": "209", 
+                    "pos-longitud": "171"
+                }
+            ], 
+            "superficie": "50",
+            "tipo": "excavada", 
+            "volumen": "20"
+        }
+    }, 
+    "explotacion": {
+        "nombre": "La Rinconada", 
+        "propietario": "Pia"
+    }, 
+    "mapa": {
+        "anchoVisibleInicial": "10000", 
+        "imagen": "images/finca-pia.jpg", 
+        "pixelsSonXMetros": "20"
+    }, 
+    "meteos": {
+        "AEMET": {
+            "URL": "http://www.aemet.es/xml/municipios/localidad_06012.xml", 
+            "id": "meteo1", 
+            "lecturas": [
+                {
+                    "direccion-viento": {
+                        "00-06": "", 
+                        "06-12": "", 
+                        "12-18": "", 
+                        "18-24": ""
+                    }, 
+                    "estado-cielo": {
+                        "00-06": "", 
+                        "06-12": "", 
+                        "12-18": "", 
+                        "18-24": ""
+                    }, 
+                    "fecha": "2015-01-03 11:40:02", 
+                    "humedad-relativa": {
+                        "00-06": "", 
+                        "06-12": "", 
+                        "12-18": "", 
+                        "18-24": "", 
+                        "maxima": "", 
+                        "minima": ""
+                    }, 
+                    "prob-precipitacion": {
+                        "00-06": "", 
+                        "06-12": "", 
+                        "12-18": "", 
+                        "18-24": ""
+                    }, 
+                    "temperatura": {
+                        "00-06": "", 
+                        "06-12": "", 
+                        "12-18": "", 
+                        "18-24": "", 
+                        "maxima": "", 
+                        "minima": ""
+                    }, 
+                    "velocidad-viento": {
+                        "00-06": "", 
+                        "06-12": "", 
+                        "12-18": "", 
+                        "18-24": ""
+                    }
+                }, 
+                {
+                    "direccion-viento": {
+                        "00-06": null, 
+                        "06-12": null, 
+                        "12-18": "C", 
+                        "18-24": "C"
+                    }, 
+                    "estado-cielo": {
+                        "00-06": "", 
+                        "06-12": "", 
+                        "12-18": "", 
+                        "18-24": "Despejado"
+                    }, 
+                    "fecha": "2015-01-05 04:13:26", 
+                    "humedad-relativa": {
+                        "06": null, 
+                        "12": null, 
+                        "18": "65", 
+                        "24": "90", 
+                        "maxima": "100", 
+                        "minima": "65"
+                    }, 
+                    "prob-precipitacion": {
+                        "00-06": null, 
+                        "06-12": null, 
+                        "12-18": null, 
+                        "18-24": "0"
+                    }, 
+                    "temperatura": {
+                        "06": null, 
+                        "12": null, 
+                        "18": "11", 
+                        "24": "4", 
+                        "maxima": "11", 
+                        "minima": "0"
+                    }, 
+                    "velocidad-viento": {
+                        "00-06": null, 
+                        "06-12": null, 
+                        "12-18": "0", 
+                        "18-24": "0"
+                    }
+                }, 
+                {
+                    "direccion-viento": {
+                        "00-06": "E", 
+                        "06-12": "C", 
+                        "12-18": "C", 
+                        "18-24": "C"
+                    }, 
+                    "estado-cielo": {
+                        "00-06": "", 
+                        "06-12": "Despejado", 
+                        "12-18": "Despejado", 
+                        "18-24": "Despejado"
+                    }, 
+                    "fecha": "2015-01-05 23:44:15", 
+                    "humedad-relativa": {
+                        "06": "80", 
+                        "12": "65", 
+                        "18": "70", 
+                        "24": "90", 
+                        "maxima": "90", 
+                        "minima": "60"
+                    }, 
+                    "prob-precipitacion": {
+                        "00-06": null, 
+                        "06-12": "0", 
+                        "12-18": "0", 
+                        "18-24": "0"
+                    }, 
+                    "temperatura": {
+                        "06": "3", 
+                        "12": "11", 
+                        "18": "12", 
+                        "24": "4", 
+                        "maxima": "14", 
+                        "minima": "2"
+                    }, 
+                    "velocidad-viento": {
+                        "00-06": "5", 
+                        "06-12": "0", 
+                        "12-18": "0", 
+                        "18-24": "0"
+                    }
+                }, 
+                {
+                    "direccion-viento": {
+                        "00-06": "C", 
+                        "06-12": "O", 
+                        "12-18": "C", 
+                        "18-24": "C"
+                    }, 
+                    "estado-cielo": {
+                        "00-06": "Poco nuboso", 
+                        "06-12": "Poco nuboso", 
+                        "12-18": "Despejado", 
+                        "18-24": "Despejado"
+                    }, 
+                    "fecha": "2015-01-06 17:21:59", 
+                    "humedad-relativa": {
+                        "06": "100", 
+                        "12": "90", 
+                        "18": "85", 
+                        "24": "100", 
+                        "maxima": "100", 
+                        "minima": "70"
+                    }, 
+                    "prob-precipitacion": {
+                        "00-06": "0", 
+                        "06-12": "0", 
+                        "12-18": "0", 
+                        "18-24": "0"
+                    }, 
+                    "temperatura": {
+                        "06": "2", 
+                        "12": "8", 
+                        "18": "7", 
+                        "24": "2", 
+                        "maxima": "11", 
+                        "minima": "2"
+                    }, 
+                    "velocidad-viento": {
+                        "00-06": "0", 
+                        "06-12": "5", 
+                        "12-18": "0", 
+                        "18-24": "0"
+                    }
+                }, 
+                {
+                    "direccion-viento": {
+                        "00-06": null, 
+                        "06-12": "C", 
+                        "12-18": "C", 
+                        "18-24": "C"
+                    }, 
+                    "estado-cielo": {
+                        "00-06": "", 
+                        "06-12": "", 
+                        "12-18": "Despejado", 
+                        "18-24": "Despejado"
+                    }, 
+                    "fecha": "2015-01-07 00:16:15", 
+                    "humedad-relativa": {
+                        "06": null, 
+                        "12": "90", 
+                        "18": "80", 
+                        "24": "100", 
+                        "maxima": "100", 
+                        "minima": "70"
+                    }, 
+                    "prob-precipitacion": {
+                        "00-06": null, 
+                        "06-12": null, 
+                        "12-18": "0", 
+                        "18-24": "0"
+                    }, 
+                    "temperatura": {
+                        "06": null, 
+                        "12": "7", 
+                        "18": "8", 
+                        "24": "3", 
+                        "maxima": "11", 
+                        "minima": "2"
+                    }, 
+                    "velocidad-viento": {
+                        "00-06": null, 
+                        "06-12": "0", 
+                        "12-18": "0", 
+                        "18-24": "0"
+                    }
+                }, 
+                {
+                    "direccion-viento": {
+                        "00-06": "C", 
+                        "06-12": "E", 
+                        "12-18": "C", 
+                        "18-24": "C"
+                    }, 
+                    "estado-cielo": {
+                        "00-06": "", 
+                        "06-12": "Despejado", 
+                        "12-18": "Despejado", 
+                        "18-24": "Despejado"
+                    }, 
+                    "fecha": "2015-01-07 17:46:04", 
+                    "humedad-relativa": {
+                        "06": "100", 
+                        "12": "90", 
+                        "18": "85", 
+                        "24": "100", 
+                        "maxima": "100", 
+                        "minima": "70"
+                    }, 
+                    "prob-precipitacion": {
+                        "00-06": null, 
+                        "06-12": "0", 
+                        "12-18": "0", 
+                        "18-24": "0"
+                    }, 
+                    "temperatura": {
+                        "06": "1", 
+                        "12": "7", 
+                        "18": "7", 
+                        "24": "2", 
+                        "maxima": "12", 
+                        "minima": "1"
+                    }, 
+                    "velocidad-viento": {
+                        "00-06": "0", 
+                        "06-12": "5", 
+                        "12-18": "0", 
+                        "18-24": "0"
+                    }
+                }, 
+                {
+                    "direccion-viento": {
+                        "00-06": null, 
+                        "06-12": "C", 
+                        "12-18": "C", 
+                        "18-24": "C"
+                    }, 
+                    "estado-cielo": {
+                        "00-06": "", 
+                        "06-12": "", 
+                        "12-18": "Despejado", 
+                        "18-24": "Despejado"
+                    }, 
+                    "fecha": "2015-01-07 20:21:02", 
+                    "humedad-relativa": {
+                        "06": null, 
+                        "12": "95", 
+                        "18": "90", 
+                        "24": "100", 
+                        "maxima": "100", 
+                        "minima": "70"
+                    }, 
+                    "prob-precipitacion": {
+                        "00-06": null, 
+                        "06-12": null, 
+                        "12-18": "0", 
+                        "18-24": "0"
+                    }, 
+                    "temperatura": {
+                        "06": null, 
+                        "12": "4", 
+                        "18": "5", 
+                        "24": "3", 
+                        "maxima": "12", 
+                        "minima": "2"
+                    }, 
+                    "velocidad-viento": {
+                        "00-06": null, 
+                        "06-12": "0", 
+                        "12-18": "0", 
+                        "18-24": "0"
+                    }
+                }
+            ]
+        }, 
+        "ETERNUM": {
+            "URL": "", 
+            "lecturas": [
+                {
+                    "dias-precipitacion": "7", 
+                    "fecha": "enero", 
+                    "horas-sol": "147", 
+                    "humedad-relativa": "80", 
+                    "precipitacion": "52", 
+                    "temperatura": "8.5",
+                    "temperatura-media-de-las-maximas-diarias": "13.9", 
+                    "temperatura-media-de-las-minimas-diarias": "3.2"
+                }, 
+                {
+                    "dias-precipitacion": "6", 
+                    "fecha": "febrero", 
+                    "horas-sol": "162", 
+                    "humedad-relativa": "75", 
+                    "precipitacion": "43", 
+                    "temperatura": "10.3", 
+                    "temperatura-media-de-las-maximas-diarias": "15.9", 
+                    "temperatura-media-de-las-minimas-diarias": "4.7"
+                }, 
+                {
+                    "dias-precipitacion": "5", 
+                    "fecha": "marzo", 
+                    "horas-sol": "224", 
+                    "humedad-relativa": "67", 
+                    "precipitacion": "33", 
+                    "temperatura": "12.7", 
+                    "temperatura-media-de-las-maximas-diarias": "19.4", 
+                    "temperatura-media-de-las-minimas-diarias": "6.0"
+                }, 
+                {
+                    "dias-precipitacion": "5", 
+                    "fecha": "abril", 
+                    "horas-sol": "233", 
+                    "humedad-relativa": "66", 
+                    "precipitacion": "52", 
+                    "temperatura": "14.5", 
+                    "temperatura-media-de-las-maximas-diarias": "20.9", 
+                    "temperatura-media-de-las-minimas-diarias": "8.1"
+                }, 
+                {
+                    "dias-precipitacion": "5", 
+                    "fecha": "mayo", 
+                    "horas-sol": "283", 
+                    "humedad-relativa": "62", 
+                    "precipitacion": "40", 
+                    "temperatura": "18.0", 
+                    "temperatura-media-de-las-maximas-diarias": "24.8", 
+                    "temperatura-media-de-las-minimas-diarias": "11.1"
+                }, 
+                {
+                    "dias-precipitacion": "9", 
+                    "fecha": "junio", 
+                    "horas-sol": "321", 
+                    "humedad-relativa": "55", 
+                    "precipitacion": "18", 
+                    "temperatura": "22.5", 
+                    "temperatura-media-de-las-maximas-diarias": "30.3", 
+                    "temperatura-media-de-las-minimas-diarias": "14.7"
+                }, 
+                {
+                    "dias-precipitacion": "18", 
+                    "fecha": "julio", 
+                    "horas-sol": "366", 
+                    "humedad-relativa": "50", 
+                    "precipitacion": "4", 
+                    "temperatura": "25.7", 
+                    "temperatura-media-de-las-maximas-diarias": "34.7", 
+                    "temperatura-media-de-las-minimas-diarias": "17.0"
+                }, 
+                {
+                    "dias-precipitacion": "18", 
+                    "fecha": "agosto", 
+                    "horas-sol": "342", 
+                    "humedad-relativa": "51", 
+                    "precipitacion": "5", 
+                    "temperatura": "25.3", 
+                    "temperatura-media-de-las-maximas-diarias": "34.0", 
+                    "temperatura-media-de-las-minimas-diarias": "16.7"
+                }, 
+                {
+                    "dias-precipitacion": "10", 
+                    "fecha": "septiembre", 
+                    "horas-sol": "258", 
+                    "humedad-relativa": "58", 
+                    "precipitacion": "23", 
+                    "temperatura": "22.6", 
+                    "temperatura-media-de-las-maximas-diarias": "30.3", 
+                    "temperatura-media-de-las-minimas-diarias": "14.8"
+                }, 
+                {
+                    "dias-precipitacion": "7", 
+                    "fecha": "octubre", 
+                    "horas-sol": "165", 
+                    "humedad-relativa": "69", 
+                    "precipitacion": "56", 
+                    "temperatura": "17.4", 
+                    "temperatura-media-de-las-maximas-diarias": "23.8", 
+                    "temperatura-media-de-las-minimas-diarias": "11"
+                }, 
+                {
+                    "dias-precipitacion": "7", 
+                    "fecha": "noviembre", 
+                    "horas-sol": "165", 
+                    "humedad-relativa": "77", 
+                    "precipitacion": "64", 
+                    "temperatura": "12.4", 
+                    "temperatura-media-de-las-maximas-diarias": "18.1", 
+                    "temperatura-media-de-las-minimas-diarias": "6.8"
+                }, 
+                {
+                    "dias-precipitacion": "6", 
+                    "fecha": "diciembre", 
+                    "horas-sol": "120", 
+                    "humedad-relativa": "83", 
+                    "precipitacion": "73", 
+                    "temperatura": "9.6", 
+                    "temperatura-media-de-las-maximas-diarias": "14.5", 
+                    "temperatura-media-de-las-minimas-diarias": "4.8"
+                }
+            ], 
+            "localizacion": "Aeropuerto de Badajoz"
+        }
+    }, 
+    "ovejas": {
+        "oveja1": {
+            "cercas":
+            [
+              {
+                "fecha": "",
+                "cerca": "cerca5"
+              }
+            ],
+           "demanda": "50",
+            "fecha-nacimiento": "34/12/1032",
+            "lote": "L1",
+            "parameters": [], 
+            "pos-latitud": "383",
+            "pos-longitud": "290.052827494",
+            "raza": "merina",
+            "hambrienta": "false"
+        }
+    }, 
+    "persistencia": {
+        "access key": "always yours", 
+        "database": "mongodb", 
+        "nodo": "mongodb://146.185.131.62:27017/", 
+        "password": "qwlekjrWERdsf2", 
+        "usuario": "Pablo"
+    }
+}
